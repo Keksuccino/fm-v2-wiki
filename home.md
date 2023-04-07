@@ -2,7 +2,7 @@
 title: Home
 description: Home of human kind's biggest collection of wisdom! Be careful, it could be dangerous in there!
 published: true
-date: 2023-04-07T02:32:43.050Z
+date: 2023-04-07T03:16:59.910Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-07T00:06:44.048Z
@@ -23,10 +23,20 @@ This wiki is mainly about FancyMenu, which is a mod for Minecraft Java Edition.
 
 When you just downloaded FancyMenu for the first time and don't really know where to start, this wiki is perfect for you, but even some of the *pros in the scene* can still learn some new things here!
 
-# 🎨 For Normal Users
+# 🔎 Browsing the Wiki
+
+To find stuff in the wiki, just use the **search bar at the top**.
+
+If you want to browse the full library for topics you may be interested in, use the navigation bar at the left side. You can browse all pages by clicking on **Browse**.
+
+## 🎨 For Normal Users
 
 If you want to learn how to customize Minecraft menus, make sure to check out the customization docs!
 
-# 🛠️ For Developers
+You can browse all of its pages by switching to **Browse** mode in the naviagation bar (as mentioned above) and clicking on **Wiki -> Customization**.
+
+## 🛠️ For Developers
 
 If you're a developer and want to make an extension mod for FancyMenu, you should take a look at the developer docs!
+
+You can browse all of its pages by switching to **Browse** mode in the naviagation bar (as mentioned above) and clicking on **Wiki -> Dev**.
