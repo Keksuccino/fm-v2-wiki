@@ -1,8 +1,8 @@
 ---
 title: Home
-description: home
+description: Home of human kind's biggest collection of wisdom! Be careful, it could be dangerous in there!
 published: true
-date: 2023-04-07T02:26:31.059Z
+date: 2023-04-07T02:32:43.050Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-07T00:06:44.048Z
