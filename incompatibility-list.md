@@ -2,7 +2,7 @@
 title: Incompatibility List
 description: A list of mods that are known to be incompatible with FancyMenu.
 published: true
-date: 2023-04-07T02:43:09.468Z
+date: 2023-04-07T02:43:45.520Z
 tags: incompatibility, list, conflict, conflicting, incompatible, crash, bug, issue, problem, fix, mod, help
 editor: markdown
 dateCreated: 2023-04-07T02:43:09.468Z
@@ -18,7 +18,7 @@ Some of the mods have workarounds to make them work with FancyMenu. If that's th
 {.is-info}
 
 
-## [FORGE] Incompatible Mods:
+## [FORGE] Incompatible Mods
 
 - OptiFine (Works if "fast rendering" is disabled)
 - [Custom Main Menu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu)
@@ -51,7 +51,7 @@ Some of the mods have workarounds to make them work with FancyMenu. If that's th
 - [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft) (Game fails to load)
 - [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) (Buttons and menus of this mod aren't customizable)
 
-## [FABRIC] Incompatible Mods:
+## [FABRIC] Incompatible Mods
 
 - OptiFine (Works if "fast rendering" is disabled)
 - [Bedrockify](https://www.curseforge.com/minecraft/mc-mods/bedrockify) (Compatible when you disable all menu modifications of the mod, at least for the menus you want to customize)
