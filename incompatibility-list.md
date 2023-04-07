@@ -2,7 +2,7 @@
 title: Incompatibility List
 description: A list of mods that are known to be incompatible with FancyMenu.
 published: true
-date: 2023-04-07T02:43:45.520Z
+date: 2023-04-07T02:51:20.996Z
 tags: incompatibility, list, conflict, conflicting, incompatible, crash, bug, issue, problem, fix, mod, help
 editor: markdown
 dateCreated: 2023-04-07T02:43:09.468Z
@@ -69,3 +69,7 @@ Some of the mods have workarounds to make them work with FancyMenu. If that's th
 - [Replay Mod](https://www.replaymod.com/download/) (Works when setting `mainMenuButton` from `DEFAULT` to `BIG` in `.minecraft/config/replaymod.json`)
 - [EnhancedVisuals](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals) (Seems to break animations, makes backgrounds translucent and probably more)
 - [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft) (Game fails to load)
+
+----------
+
+Tags: #conflict #crash #bug #glitch #issue #conflicting #incompatible #mod #not-working #problem #fix #help
