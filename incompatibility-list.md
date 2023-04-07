@@ -1,0 +1,71 @@
+---
+title: Incompatibility List
+description: A list of mods that are known to be incompatible with FancyMenu.
+published: true
+date: 2023-04-07T02:43:09.468Z
+tags: incompatibility, list, conflict, conflicting, incompatible, crash, bug, issue, problem, fix, mod, help
+editor: markdown
+dateCreated: 2023-04-07T02:43:09.468Z
+---
+
+# List of Incompatible Mods
+
+The following mods are known to be incompatible with FancyMenu in some way.
+
+Some of the mods have workarounds to make them work with FancyMenu. If that's the case, it will be written after the mod name in the list below.
+
+> If you've found an incompatible mod which isn't already part of the list, please report it to me, thank you very much!
+{.is-info}
+
+
+## [FORGE] Incompatible Mods:
+
+- OptiFine (Works if "fast rendering" is disabled)
+- [Custom Main Menu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu)
+- [Pack Menu](https://www.curseforge.com/minecraft/mc-mods/packmenu)
+- [Main Menu Scale Mod](https://www.curseforge.com/minecraft/mc-mods/main-menu-scale)
+- [Terraria Craft](https://www.curseforge.com/minecraft/mc-mods/terraria-craft)
+- [VanillaFix](https://www.curseforge.com/minecraft/mc-mods/vanillafix) (Useable, but some users have noticed problems with the VanillaFix crash screen. Sadly I wasn't able to reproduce this.)
+- [Fossils and Archeology Revival](https://www.curseforge.com/minecraft/mc-mods/fossils) (Works ingame, but the custom main menu by this mod isn't supported. It can be disabled in its config.)
+- [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge) (Works if `patchMinecraftClass` is set to `false` in its mod config)
+- [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere)
+- [The Dalek Mod](https://www.curseforge.com/minecraft/mc-mods/the-dalek-mod) (Works if the custom main menu of this mod is disabled in its config)
+- [Custom Loading Screen](https://www.curseforge.com/minecraft/mc-mods/better-loading-screen)
+- [Replay Mod](https://www.replaymod.com/download/) (Works when setting `mainMenuButton` from `DEFAULT` to `BIG` in `.minecraft/config/replaymod.json`)
+- [Crash To Main Menu](https://www.curseforge.com/minecraft/mc-mods/crash-to-main-menu)
+- [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) (Works if the custom main menu is disabled in its mod config)
+- [Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) (Buttons and other elements added by this mod aren't customizable)
+- [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters) (The audio extension will not work with this mod installed)
+- [Minecraft Comes Alive](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-mca) (works just fine, but the menus of the mod aren't customizable)
+- [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (Works fine in 1.16+, but breaks 1.12)
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) (Works fine in 1.16+, but breaks 1.12)
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (Randomly crashes the game when customizing its config screen. If that happens, manually delete the layout from `.minecraft/config/fancymenu/customization`)
+- [Inventory HUD](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+- [MineTogether](https://www.curseforge.com/minecraft/mc-mods/creeperhost-minetogether) (Seems to break layouts when GUI scale is bigger than 2)
+- [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button)
+- [Jurassicraft](https://www.curseforge.com/minecraft/mc-mods/jurassicraft) (Game will crash on start when enabling customizations for Jurassicraft GUIs. To fix this, manually delete all Jurassicraft GUIs from `config/fancymenu/customizablemenus.txt`.)
+- [Stylish Effects](https://www.curseforge.com/minecraft/mc-mods/stylish-effects) (Main menu fails to load layouts when shown for the first time)
+- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) (The audio extension will not work with this mod installed)
+- [EnhancedVisuals](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals) (Seems to break animations, makes backgrounds translucent and probably more)
+- [MalisisCore](https://www.curseforge.com/minecraft/mc-mods/malisiscore) (Breaks main menu customization)
+- [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft) (Game fails to load)
+- [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) (Buttons and menus of this mod aren't customizable)
+
+## [FABRIC] Incompatible Mods:
+
+- OptiFine (Works if "fast rendering" is disabled)
+- [Bedrockify](https://www.curseforge.com/minecraft/mc-mods/bedrockify) (Compatible when you disable all menu modifications of the mod, at least for the menus you want to customize)
+- [Slight Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
+- [ThonkUtil](https://www.curseforge.com/minecraft/mc-mods/thonkutil) (works, but currently adds an unremovable text to the main menu)
+- [Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) (Buttons and other elements added by this mod aren't customizable)
+- [Minecraft Comes Alive](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-mca) (works just fine, but the menus of the mod aren't customizable)
+- [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (Works fine in 1.16+, but breaks 1.12)
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) (Works fine in 1.16+, but breaks 1.12)
+- [Inventory HUD](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+- [MineTogether](https://www.curseforge.com/minecraft/mc-mods/creeperhost-minetogether) (Seems to break layouts when GUI scale is bigger than 2)
+- [Stylish Effects](https://www.curseforge.com/minecraft/mc-mods/stylish-effects) (Main menu fails to load layouts when shown for the first time)
+- [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) (Huge lag when starting MC and breaks FM's audio stuff)
+- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) (The audio extension will not work with this mod installed)
+- [Replay Mod](https://www.replaymod.com/download/) (Works when setting `mainMenuButton` from `DEFAULT` to `BIG` in `.minecraft/config/replaymod.json`)
+- [EnhancedVisuals](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals) (Seems to break animations, makes backgrounds translucent and probably more)
+- [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft) (Game fails to load)
