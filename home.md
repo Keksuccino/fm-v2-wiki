@@ -2,7 +2,7 @@
 title: Home
 description: Home of human kind's biggest collection of wisdom! Be careful, it could be dangerous in there!
 published: true
-date: 2023-04-07T03:16:59.910Z
+date: 2023-04-07T03:37:45.443Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-07T00:06:44.048Z
@@ -33,10 +33,10 @@ If you want to browse the full library for topics you may be interested in, use 
 
 If you want to learn how to customize Minecraft menus, make sure to check out the customization docs!
 
-You can browse all of its pages by switching to **Browse** mode in the naviagation bar (as mentioned above) and clicking on **Wiki -> Customization**.
+You can browse all of its pages by switching to **Browse** mode in the naviagation bar (as mentioned above) and clicking on **wiki -> customization**.
 
 ## 🛠️ For Developers
 
 If you're a developer and want to make an extension mod for FancyMenu, you should take a look at the developer docs!
 
-You can browse all of its pages by switching to **Browse** mode in the naviagation bar (as mentioned above) and clicking on **Wiki -> Dev**.
+You can browse all of its pages by switching to **Browse** mode in the naviagation bar (as mentioned above) and clicking on **wiki -> dev**.
