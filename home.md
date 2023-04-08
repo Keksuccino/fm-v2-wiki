@@ -2,7 +2,7 @@
 title: Home
 description: Home of human kind's biggest collection of wisdom! Be careful, it could be dangerous in there!
 published: true
-date: 2023-04-08T02:00:53.269Z
+date: 2023-04-08T02:50:12.749Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-07T00:06:44.048Z
@@ -27,7 +27,7 @@ When you just downloaded FancyMenu for the first time and don't really know wher
 
 To find stuff in the wiki, just use the **search bar at the top**.
 
-If you want to browse the full library for topics you may be interested in, use the navigation bar at the left side. You can browse all pages by clicking on **Browse**.
+If you want to browse the full library for topics and pages you may be interested in, use the navigation bar at the left side. You can browse all pages by clicking on **Browse**.
 
 ## 🎨 For Normal Users
 
