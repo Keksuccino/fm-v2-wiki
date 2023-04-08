@@ -1,8 +1,8 @@
 ---
 title: Become a Wiki Author
-description: How to become a wiki author to write and edit pages!
+description: How to become a wiki author to create and edit pages!
 published: true
-date: 2023-04-08T02:39:18.484Z
+date: 2023-04-08T02:56:49.720Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T02:22:14.803Z
