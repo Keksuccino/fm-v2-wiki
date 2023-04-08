@@ -2,7 +2,7 @@
 title: Become an Author
 description: How to become a wiki author to write and edit pages!
 published: true
-date: 2023-04-08T02:38:08.226Z
+date: 2023-04-08T02:38:41.525Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-08T02:22:14.803Z
@@ -15,7 +15,7 @@ You like writing and explaining stuff?
 
 Well, that sounds great, because this wiki is now partly community-driven and everyone can contribute to it!
 
-All you need to do is sending me a PM in Discord (Keksuccino#0425) with a short text about your history with FancyMenu and why you want to become a wiki author.
+All you need to do is **sending me a PM in Discord (Keksuccino#0425)** with a short text about your history with FancyMenu and why you want to become a wiki author.
 
 Thank you so much for your interest in contributing content to the wiki!
 You are great and what you're doing will help a lot of people, including me! <3
