@@ -1,11 +1,11 @@
 ---
-title: Custom Elements
+title: [DEV] Custom Elements
 description: Create custom layout elements using the FancyMenu API.
 published: true
-date: 2023-02-10T22:47:07.654Z
+date: 2023-04-11T01:19:55.871Z
 tags: api
 editor: markdown
-dateCreated: 2023-02-10T22:47:06.337Z
+dateCreated: 2023-04-07T04:32:23.095Z
 ---
 
 # 0. About
