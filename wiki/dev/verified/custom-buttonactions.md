@@ -1,11 +1,11 @@
 ---
-title: Custom Button Actions
+title: [DEV] Custom Button Actions
 description: Create custom button actions that can be executed on button click using the FancyMenu API.
 published: true
-date: 2023-02-10T22:47:05.620Z
+date: 2023-04-11T01:18:39.476Z
 tags: api
 editor: markdown
-dateCreated: 2023-02-10T22:47:04.298Z
+dateCreated: 2023-04-07T04:32:20.373Z
 ---
 
 # 0. About
