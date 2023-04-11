@@ -1,11 +1,11 @@
 ---
-title: Prepare Workspace
+title: [DEV] Prepare Workspace
 description: First steps for using the FancyMenu API.
 published: true
-date: 2023-02-10T22:47:15.220Z
+date: 2023-04-11T01:19:18.317Z
 tags: api
 editor: markdown
-dateCreated: 2023-02-10T22:47:13.900Z
+dateCreated: 2023-04-07T04:32:32.000Z
 ---
 
 # 0. About
