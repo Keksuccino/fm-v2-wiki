@@ -1,11 +1,11 @@
 ---
-title: Custom Menu Backgrounds
+title: [DEV] Custom Menu Backgrounds
 description: Create custom menu backgrounds using the FancyMenu API.
 published: true
-date: 2023-02-10T22:47:09.561Z
+date: 2023-04-11T01:19:35.514Z
 tags: api
 editor: markdown
-dateCreated: 2023-02-10T22:47:08.275Z
+dateCreated: 2023-04-07T04:32:25.712Z
 ---
 
 # 0. About
