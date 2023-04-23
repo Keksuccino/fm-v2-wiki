@@ -2,7 +2,7 @@
 title: Incompatibility List
 description: A list of mods that are known to be incompatible with FancyMenu.
 published: true
-date: 2023-04-22T01:17:00.727Z
+date: 2023-04-23T05:28:21.218Z
 tags: incompatibility, list, conflict, conflicting, incompatible, crash, bug, issue, problem, fix, mod, help
 editor: markdown
 dateCreated: 2023-04-07T02:43:09.468Z
@@ -50,6 +50,7 @@ Some of the mods have workarounds to make them work with FancyMenu. If that's th
 - [MalisisCore](https://www.curseforge.com/minecraft/mc-mods/malisiscore) (Breaks main menu customization)
 - [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft) (Game fails to load)
 - [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) (Buttons and menus of this mod aren't customizable)
+- [Controllable](https://www.curseforge.com/minecraft/mc-mods/controllable) (Custom buttons added to menus with FancyMenu aren't clickable via Controllable's "Virtual Mouse" feature)
 
 ## [FABRIC] Incompatible Mods
 
