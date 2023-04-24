@@ -2,7 +2,7 @@
 title: Incompatibility List
 description: A list of mods that are known to be incompatible with FancyMenu.
 published: true
-date: 2023-04-23T05:28:21.218Z
+date: 2023-04-24T23:50:34.100Z
 tags: incompatibility, list, conflict, conflicting, incompatible, crash, bug, issue, problem, fix, mod, help
 editor: markdown
 dateCreated: 2023-04-07T02:43:09.468Z
@@ -20,7 +20,7 @@ Some of the mods have workarounds to make them work with FancyMenu. If that's th
 
 ## [FORGE] Incompatible Mods
 
-- OptiFine (Works if "fast rendering" is disabled)
+- OptiFine (Use [these alternatives](https://fm.keksuccino.dev/en/wiki/general/verified/optifine-alternatives) instead)
 - [Custom Main Menu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu)
 - [Pack Menu](https://www.curseforge.com/minecraft/mc-mods/packmenu)
 - [Main Menu Scale Mod](https://www.curseforge.com/minecraft/mc-mods/main-menu-scale)
@@ -54,7 +54,7 @@ Some of the mods have workarounds to make them work with FancyMenu. If that's th
 
 ## [FABRIC] Incompatible Mods
 
-- OptiFine (Works if "fast rendering" is disabled)
+- OptiFine (Use [these alternatives](https://fm.keksuccino.dev/en/wiki/general/verified/optifine-alternatives) instead)
 - [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (Works fine in most cases, but if you experience a duplicated or uncustomizable Mods button, change your Mod Menu button settings to "Adjacent": Main Menu > Mods > Mod Menu > Mods Button: Adjacent)
 - [Bedrockify](https://www.curseforge.com/minecraft/mc-mods/bedrockify) (Compatible when you disable all menu modifications of the mod, at least for the menus you want to customize)
 - [Slight Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
