@@ -2,10 +2,10 @@
 title: Custom Window Icon
 description: Set a custom icon for the Minecraft window.
 published: true
-date: 2023-02-10T22:47:23.218Z
+date: 2023-05-03T22:44:21.480Z
 tags: customization
 editor: markdown
-dateCreated: 2023-02-10T22:47:21.981Z
+dateCreated: 2023-04-07T04:31:28.064Z
 ---
 
 # 0. About
@@ -21,7 +21,7 @@ The first one needs to be 16x16 pixels and the second one 32x32 pixels.
 > **NOTE**: Only **PNG** images are supported.
 {.is-info}
 
-> **NOTE:** Due to a weird bug, icon images may look glitched in the final view. If that's the case, try to make one pixel in all four corners of the image 100% transparent. This is a bug in MC/LWJGL and I can't really do anything to fix it sadly.
+> **NOTE:** The icon has to be an **RGBA** image. The easiest way to do this is by adding some transparency to the icon (like transparent corners), but if you're familiar with image editing, export/save your image with an alpha channel (even if not needed). This will fix the issue. ([Here's how to force an alpha channel in GIMP](https://cdn.discordapp.com/attachments/795308330746511390/1091181963920023652/image.png))
 {.is-warning}
  
 ## 1.2. Icon Names
