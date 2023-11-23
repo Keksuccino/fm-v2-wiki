@@ -2,7 +2,7 @@
 title: Incompatibility List
 description: A list of mods that are known to be incompatible with FancyMenu.
 published: true
-date: 2023-05-03T22:35:47.873Z
+date: 2023-11-23T02:25:58.855Z
 tags: incompatibility, list, conflict, conflicting, incompatible, crash, bug, issue, problem, fix, mod, help
 editor: markdown
 dateCreated: 2023-04-07T02:43:09.468Z
@@ -34,7 +34,7 @@ Some of the mods have workarounds to make them work with FancyMenu. If that's th
 - [Replay Mod](https://www.replaymod.com/download/) (Works when setting `mainMenuButton` from `DEFAULT` to `BIG` in `.minecraft/config/replaymod.json`)
 - [Crash To Main Menu](https://www.curseforge.com/minecraft/mc-mods/crash-to-main-menu)
 - [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) (Works if the custom main menu is disabled in its mod config)
-- [Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) (Buttons and other elements added by this mod aren't customizable)
+- [Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) (Buttons and other elements added by this mod aren't customizable; COMPLETELY BREAKS customization some newer builds of FancyMenu)
 - [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters) (The audio extension will not work with this mod installed)
 - [Minecraft Comes Alive](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-mca) (works just fine, but the menus of the mod aren't customizable)
 - [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (Works fine in 1.16+, but breaks 1.12)
@@ -59,7 +59,7 @@ Some of the mods have workarounds to make them work with FancyMenu. If that's th
 - [Bedrockify](https://www.curseforge.com/minecraft/mc-mods/bedrockify) (Compatible when you disable all menu modifications of the mod, at least for the menus you want to customize)
 - [Slight Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
 - [ThonkUtil](https://www.curseforge.com/minecraft/mc-mods/thonkutil) (works, but currently adds an unremovable text to the main menu)
-- [Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) (Buttons and other elements added by this mod aren't customizable)
+- [Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) (Buttons and other elements added by this mod aren't customizable; COMPLETELY BREAKS customization some newer builds of FancyMenu)
 - [Minecraft Comes Alive](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-mca) (works just fine, but the menus of the mod aren't customizable)
 - [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) (Works fine in 1.16+, but breaks 1.12)
 - [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) (Works fine in 1.16+, but breaks 1.12)
