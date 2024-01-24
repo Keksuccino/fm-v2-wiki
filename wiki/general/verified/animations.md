@@ -2,7 +2,7 @@
 title: Animations
 description: Use animations as menu background and more.
 published: true
-date: 2024-01-24T00:57:38.999Z
+date: 2024-01-24T00:57:53.443Z
 tags: customization
 editor: markdown
 dateCreated: 2023-04-07T04:31:12.272Z
@@ -44,7 +44,7 @@ One of these online services is [OnlineConverter.com](https://www.onlineconverte
 
 Just upload your video to the OnlineConverter website (max. 200MB file size) and export it as JPG images.
 
-> **WARNING**: Loading animation frames in Minecraft can **consume a lot of memory**!
+> Loading animation frames in Minecraft can **consume a lot of memory**!
 Try to not use more than **200 total frames** per animation at a maximum resolution of **1920x1080**!
 {.is-warning}
 
