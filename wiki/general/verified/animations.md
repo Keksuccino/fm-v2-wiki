@@ -2,7 +2,7 @@
 title: Animations
 description: Use animations as menu background and more.
 published: true
-date: 2024-01-24T00:57:53.443Z
+date: 2024-01-24T00:58:11.923Z
 tags: customization
 editor: markdown
 dateCreated: 2023-04-07T04:31:12.272Z
@@ -29,7 +29,6 @@ It will pack your animation to an animation pack, ready for you to copy it to th
 
 > Minecraft **dropped** support for **JPEGs** in 1.20.4, so you NEED TO USE PNG FRAMES for your animation in MC 1.20.4+!
 {.is-warning}
-
 
 You need to know, animations are just a bundle of many image files (or frames).
 They get quickly shown, or played, one by the other.
