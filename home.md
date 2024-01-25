@@ -2,11 +2,18 @@
 title: Home
 description: Home of human kind's biggest collection of wisdom! Be careful, it could be dangerous in there!
 published: true
-date: 2023-04-08T02:50:12.749Z
+date: 2024-01-25T12:34:32.998Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-07T00:06:44.048Z
 ---
+
+# FancyMenu v2
+
+Just a little reminder that this is the documentation for **FancyMenu v2**.
+
+If you're looking for the v3 documentation, please go to the [FMv3 documentation](https://docs.fancymenu.net) instead.
+
 
 # Hello, fellow human being!
 
